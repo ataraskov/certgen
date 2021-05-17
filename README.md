@@ -12,7 +12,7 @@ One can find a million other similar projects, but this script works for me.
 ```
 sudo mkdir -p  /usr/share/ca-certificates/local/
 sudo cp CA.crt /usr/share/ca-certificates/local/
-sudo dpkg-reconfigure ca-certificates`
+sudo dpkg-reconfigure ca-certificates
 ```
 #### Windows
 Right Click on CA.crt file in explorer -> Install Certificate

@@ -6,7 +6,9 @@ One can find a million other similar projects, but this script works for me.
 
 # How to use
 ### 1) Generate certs
-   ./certgen.sh test.local
+```
+./certgen.sh test.local
+```
 ### 2) Add generated CA to trusted certificates
 #### Linux / Ubuntu
 ```
